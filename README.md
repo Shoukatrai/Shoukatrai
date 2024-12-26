@@ -19,8 +19,6 @@
 <p align="left">
 <a href="https://codepen.io/@shoukat-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shoukat-rai" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/shoukat-rai-750507245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shoukat-rai-750507245" height="30" width="40" /></a>
-<a href="https://fb.com/shoukat umedani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shoukat umedani" height="30" width="40" /></a>
-<a href="https://instagram.com/sr_umedani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sr_umedani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoukatrai&show_icons=true&locale=en" alt="shoukatrai" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoukatrai&" alt="shoukatrai" /></p>
-
