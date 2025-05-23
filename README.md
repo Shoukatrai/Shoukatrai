@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shoukat-portfolio.netlify.app/](https://shoukat-portfolio.netlify.app/)
 
-- 💬 Ask me about **HTML5 , CSS3 , Javascript , Bootstrap**
+- 💬 Ask me about **HTML5 , CSS3 , Javascript , Bootstrap , React.js**
 
 - 📫 How to reach me **raishoukat033@gmail.com**
 
