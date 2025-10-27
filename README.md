@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/shoukatrai4" target="blank"><img src="https://img.shields.io/twitter/follow/shoukatrai4?logo=twitter&style=for-the-badge" alt="shoukatrai4" /></a> </p>
 
+- 👨‍💻 Portfolio: [shoukatdev.netlify.app](shoukatdev.netlify.app)
 - 👨‍💻 All of my projects are available at [shoukatdev.netlify.app](shoukatdev.netlify.app)
-
 - 📫 How to reach me **raishoukat033@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
