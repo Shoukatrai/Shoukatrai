@@ -35,6 +35,6 @@
 
 ### 📫 Connect with Me
 
-- **Portfolio:** [shoukatrai.vercel.app](https://shoukatrai.vercel.app)
-- **LinkedIn:** [linkedin.com/in/shoukatrai](https://linkedin.com)
-- **Email:** [contact@shoukatrai.dev](mailto:contact@shoukatrai.dev)
+- **Portfolio:** [raishoukat.vercel.app](https://raishoukat.vercel.app)
+- **LinkedIn:** [[linkedin.com/in/shoukatrai](https://www.linkedin.com/in/shoukat-rai-750507245/) ](https://linkedin.com)
+- **Email:** [contact@raishoukat033.dev](mailto:contact@raishoukat033)
