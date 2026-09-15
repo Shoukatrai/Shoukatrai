@@ -37,4 +37,4 @@
 
 - **Portfolio:** [raishoukat.vercel.app](https://raishoukat.vercel.app)
 - **LinkedIn:** [[linkedin.com/in/shoukatrai](https://www.linkedin.com/in/shoukat-rai-750507245/) ](https://linkedin.com)
-- **Email:** [contact@raishoukat033.dev](mailto:contact@raishoukat033)
+- **Email:** [contact@raishoukat033](mailto:contact@raishoukat033)
